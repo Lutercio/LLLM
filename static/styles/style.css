@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  #chat-log {
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-height: 400px;
+    overflow-y: auto;
+    margin-top: 20px;
+  }
+  .chat-entry {
+    margin-bottom: 15px;
+  }
+  .user-msg {
+    font-weight: bold;
+    color: #1a73e8;
+  }
+  .bot-msg {
+    margin-left: 20px;
+    color: #34a853;
+  }

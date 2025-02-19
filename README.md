@@ -1,1 +1,1 @@
-This Project is a Local Large Language Model
+This Project is a Local Client of Large Language Models
